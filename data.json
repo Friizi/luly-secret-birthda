@@ -1,218 +1,372 @@
-{
-  "Dams": {
+[
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a25b"
+    },
     "nom": "Dams",
-    "secret": "Mon père est le père Fouras.",
+    "secret": "Mon père se trouve être le Père Fouras.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Zonz": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a25c"
+    },
     "nom": "Zonz",
-    "secret": "Je sais parler à l’oreille des animaux.",
+    "secret": "J'ai la capacité de comprendre le langage des animaux.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Titi": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a25d"
+    },
     "nom": "Titi",
-    "secret": "J’ai décidé de changer de sexe.",
+    "secret": "J'ai entrepris un changement de genre.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Lolo": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a25e"
+    },
     "nom": "Lolo",
-    "secret": "L’Abbé Pierre est mon idole.",
+    "secret": "L’Abbé Pierre est mon modèle de vie.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Hugo": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a25f"
+    },
     "nom": "Hugo",
-    "secret": "Je suis de la descendance d ’Himmler.",
+    "secret": "Je suis de la lignée d'Himmler.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Noah": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a260"
+    },
     "nom": "Noah",
-    "secret": "J’ai été expulsé d’Ibiza.",
+    "secret": "J'ai été banni d’Ibiza.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Noush": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a261"
+    },
     "nom": "Noush",
-    "secret": "J’ai été SDF.",
+    "secret": "J'ai connu la vie de sans-abri.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Juju": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a262"
+    },
     "nom": "Juju",
-    "secret": "Nous nous sommes unis à LAS VEGAS.",
+    "secret": "Nous nous sommes mariés en secret à Las Vegas.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Clem": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a263"
+    },
     "nom": "Clem",
-    "secret": "Sous mon apparence d’ange, je suis un démon.",
+    "secret": "Sous mon apparence angélique se cache un démon.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Maëvouille": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a264"
+    },
     "nom": "Maëvouille",
     "secret": "Je suis la cousine germaine de Jeff Tuch.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Jerem": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a265"
+    },
     "nom": "Jerem",
     "secret": "Je suis né en prison.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Jess": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a266"
+    },
     "nom": "Jess",
-    "secret": "Mes Airbags m’ont sauvés lors d’un accident de voiture.",
+    "secret": "Lors d'un accident de voiture, mes Airbags m’ont sauvé la vie.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Baptise": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a267"
+    },
     "nom": "Baptise",
-    "secret": "J’ai des Tocs.",
+    "secret": "J'ai des Tocs.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Bribri": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a268"
+    },
     "nom": "Bribri",
-    "secret": "Je suis flicophobe (scopophobie).",
+    "secret": "J'ai la phobie de la police.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Tom": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a269"
+    },
     "nom": "Tom",
-    "secret": "Je décapsule avec mes yeux, ceci est mon super pouvoir.",
+    "secret": "Je peux décapsuler des bouteilles avec mes yeux.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Clément": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a26a"
+    },
     "nom": "Clément",
-    "secret": "Nous nous sommes unis à L’AS VEGAS.",
+    "secret": "Nous nous sommes mariés en secret à Las Vegas.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Cloclo": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a26b"
+    },
     "nom": "Cloclo",
-    "secret": "Notaire et coach en twerk.",
+    "secret": "Je suis notaire la journée et coach en twerk le soir.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Laulau": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a26c"
+    },
     "nom": "Laulau",
     "secret": "Je suis Barbie.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Jordan": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a26d"
+    },
     "nom": "Jordan",
-    "secret": "Je suis ken.",
+    "secret": "Je suis Ken.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Caro": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a26e"
+    },
     "nom": "Caro",
-    "secret": "J’ai décidé de rester vierge.",
+    "secret": "J'ai choisi de préserver ma virginité.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Thomas": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a26f"
+    },
     "nom": "Thomas",
     "secret": "Ma coiffeuse m’a brûlé les cheveux.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Gwen": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a270"
+    },
     "nom": "Gwen",
     "secret": "J’ai fait la guerre (39-45).",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Cécé": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a271"
+    },
     "nom": "Cécé",
-    "secret": "J’ai 780 conquêtes à mon tableau de chasse.",
+    "secret": "J'ai 780 conquêtes amoureuses.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Guigui": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a272"
+    },
     "nom": "Guigui",
-    "secret": "Fils caché de Astérix (vive les gaulois.)",
+    "secret": "Je suis le fils renié d'Astérix.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Ronan": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a273"
+    },
     "nom": "Ronan",
     "secret": "Je suis croque mort.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Lulu": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a274"
+    },
     "nom": "Lulu",
-    "secret": "J’ai grandi dans un couvent.",
+    "secret": "J'ai grandi dans un couvent religieux.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Lélé": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a275"
+    },
     "nom": "Lélé",
-    "secret": "Mon ex est le frère de ma meilleure pote.",
+    "secret": "Mon ex est le frère de ma meilleure amie.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Yaëlle": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a276"
+    },
     "nom": "Yaëlle",
-    "secret": "Je suis la sœur de l’ex de ma meilleure pote.",
+    "secret": "Je suis la sœur de l'ex de ma meilleure amie.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Théo": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a277"
+    },
     "nom": "Théo",
-    "secret": "Je communique avec les morts.",
+    "secret": "Je suis capable de communiquer avec les défunts.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Nini": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a278"
+    },
     "nom": "Nini",
-    "secret": "Je suis le frère jumeau de Shummarer.",
+    "secret": "Je suis le jumeau de Shummarer.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Bonny": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a279"
+    },
     "nom": "Bonny",
-    "secret": "Je suis un vampire.",
+    "secret": "Je suis une vampire.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Quentin": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a27a"
+    },
     "nom": "Quentin",
-    "secret": "Je me tape une cougar.",
+    "secret": "Je suis en relation avec une cougard.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Mangecouille": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a27b"
+    },
     "nom": "Mangecouille",
-    "secret": "J’ai trois tétons.",
+    "secret": "Je suis né avec trois tétons.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Gauthey": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a27c"
+    },
     "nom": "Gauthey",
-    "secret": "J’ai été enfant de cœur et j’ai volé le vin du curé. (On est tous frère on partage)",
+    "secret": "Pendant mon enfance, j'ai été enfant de chœur et j'ai vendalisé le vin au curé.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Aurélie": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a27d"
+    },
     "nom": "Aurélie",
-    "secret": "Je suis Gossip Girl.",
+    "secret": "Je suis  Gossip Girl.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
   },
-  "Julie": {
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a27e"
+    },
     "nom": "Julie",
-    "secret": "Je flatule en public (l’aérocolie) maladie.",
+    "secret": "Je souffre d'aérocolie.",
     "cagnotte": 10000,
-    "find": 0
+    "find": 0,
+    "show": 0
+  },
+  {
+    "_id": {
+      "$oid": "653196ad3e62b0c5ed31a27f"
+    },
+    "nom": "Luly",
+    "secret": "Je déteste Secret Story",
+    "cagnotte": 0,
+    "find": 1,
+    "show": 1
   }
-}
+]

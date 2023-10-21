@@ -25,6 +25,7 @@ router.post("/nominate", async (req, res) => {
         // Soustrayez 5000 de la cagnotte du nominé
         nomineRanking.cagnotte -= 5000;
         nomineRanking.find = 1;
+        nomineRanking.show = 1;
 
         // Vérifiez si la cagnotte du nominé est devenue négative
         if (nomineRanking.cagnotte < 0) {

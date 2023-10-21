@@ -6,6 +6,7 @@ const rankingSchema = new mongoose.Schema({
   secret: String,
   cagnotte: Number,
   find: Number,
+  show: Number,
 });
 
 // Créez un modèle à partir du schéma
