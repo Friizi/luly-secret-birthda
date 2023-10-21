@@ -1,0 +1,218 @@
+{
+  "Dams": {
+    "nom": "Dams",
+    "secret": "Mon père est le père Fouras.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Zonz": {
+    "nom": "Zonz",
+    "secret": "Je sais parler à l’oreille des animaux.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Titi": {
+    "nom": "Titi",
+    "secret": "J’ai décidé de changer de sexe.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Lolo": {
+    "nom": "Lolo",
+    "secret": "L’Abbé Pierre est mon idole.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Hugo": {
+    "nom": "Hugo",
+    "secret": "Je suis de la descendance d ’Himmler.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Noah": {
+    "nom": "Noah",
+    "secret": "J’ai été expulsé d’Ibiza.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Noush": {
+    "nom": "Noush",
+    "secret": "J’ai été SDF.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Juju": {
+    "nom": "Juju",
+    "secret": "Nous nous sommes unis à LAS VEGAS.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Clem": {
+    "nom": "Clem",
+    "secret": "Sous mon apparence d’ange, je suis un démon.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Maëvouille": {
+    "nom": "Maëvouille",
+    "secret": "Je suis la cousine germaine de Jeff Tuch.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Jerem": {
+    "nom": "Jerem",
+    "secret": "Je suis né en prison.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Jess": {
+    "nom": "Jess",
+    "secret": "Mes Airbags m’ont sauvés lors d’un accident de voiture.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Baptise": {
+    "nom": "Baptise",
+    "secret": "J’ai des Tocs.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Bribri": {
+    "nom": "Bribri",
+    "secret": "Je suis flicophobe (scopophobie).",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Tom": {
+    "nom": "Tom",
+    "secret": "Je décapsule avec mes yeux, ceci est mon super pouvoir.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Clément": {
+    "nom": "Clément",
+    "secret": "Nous nous sommes unis à L’AS VEGAS.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Cloclo": {
+    "nom": "Cloclo",
+    "secret": "Notaire et coach en twerk.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Laulau": {
+    "nom": "Laulau",
+    "secret": "Je suis Barbie.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Jordan": {
+    "nom": "Jordan",
+    "secret": "Je suis ken.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Caro": {
+    "nom": "Caro",
+    "secret": "J’ai décidé de rester vierge.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Thomas": {
+    "nom": "Thomas",
+    "secret": "Ma coiffeuse m’a brûlé les cheveux.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Gwen": {
+    "nom": "Gwen",
+    "secret": "J’ai fait la guerre (39-45).",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Cécé": {
+    "nom": "Cécé",
+    "secret": "J’ai 780 conquêtes à mon tableau de chasse.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Guigui": {
+    "nom": "Guigui",
+    "secret": "Fils caché de Astérix (vive les gaulois.)",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Ronan": {
+    "nom": "Ronan",
+    "secret": "Je suis croque mort.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Lulu": {
+    "nom": "Lulu",
+    "secret": "J’ai grandi dans un couvent.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Lélé": {
+    "nom": "Lélé",
+    "secret": "Mon ex est le frère de ma meilleure pote.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Yaëlle": {
+    "nom": "Yaëlle",
+    "secret": "Je suis la sœur de l’ex de ma meilleure pote.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Théo": {
+    "nom": "Théo",
+    "secret": "Je communique avec les morts.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Nini": {
+    "nom": "Nini",
+    "secret": "Je suis le frère jumeau de Shummarer.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Bonny": {
+    "nom": "Bonny",
+    "secret": "Je suis un vampire.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Quentin": {
+    "nom": "Quentin",
+    "secret": "Je me tape une cougar.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Mangecouille": {
+    "nom": "Mangecouille",
+    "secret": "J’ai trois tétons.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Gauthey": {
+    "nom": "Gauthey",
+    "secret": "J’ai été enfant de cœur et j’ai volé le vin du curé. (On est tous frère on partage)",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Aurélie": {
+    "nom": "Aurélie",
+    "secret": "Je suis Gossip Girl.",
+    "cagnotte": 10000,
+    "find": 0
+  },
+  "Julie": {
+    "nom": "Julie",
+    "secret": "Je flatule en public (l’aérocolie) maladie.",
+    "cagnotte": 10000,
+    "find": 0
+  }
+}
